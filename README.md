@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=160&section=header&text=Sri%20Aravind%20K&fontSize=40&fontColor=70A5FD&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Graduate%20Student%20%E2%80%A2%20ISC2%20CC%20Certified%20%E2%80%A2%20Zero%20Trust%20Practitioner&descAlignY=62&descSize=14&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=160&section=header&text=Sri%20Aravind%20K&fontSize=40&fontColor=70A5FD&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Graduate%20Student%20%E2%80%A2%20&descSize=14&descColor=8B949E" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=700&lines=M.Sc.+Cybersecurity+%E2%80%94+NFSU+Chennai;Zero+Trust+Architecture+%7C+Threat+Detection+%7C+AI+Security;ISC2+CC+Certified+%7C+Cyberwarfare+Labs+Trained;Building+Secure+Systems+%7C+Chennai%2C+India" alt="Typing SVG" />
